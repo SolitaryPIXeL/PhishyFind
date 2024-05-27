@@ -1,0 +1,1 @@
+web: python netlify/functions/api/app.py

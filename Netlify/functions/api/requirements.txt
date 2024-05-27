@@ -1,0 +1,6 @@
+flask
+pandas
+beautifulsoup4
+joblib
+requests
+python-whois
